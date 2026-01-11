@@ -9,7 +9,6 @@ special care is taken in model evaluation and feature preprocessing.
 Credit Card Transactions Dataset  
 (Target variable: `Class` → 0 = Normal, 1 = Fraud)
 
-> Dataset not uploaded due to size.  
 > Source: Kaggle Credit Card Fraud Detection dataset.
 
 ## 🛠️ Technologies Used
